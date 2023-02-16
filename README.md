@@ -7,4 +7,4 @@
 <p>Curso de Python feita pela Udemy</p>
 <p>Professor Luiz Otávio</p>
 
-[Udemy](https://www.udemy.com/)"# cursoPython" 
+[Udemy](https://www.udemy.com/)
